@@ -1,0 +1,91 @@
+/* p{
+    /* text-align: center;
+    text-decoration: underline;
+    color:blue;
+    text-transform: uppercase;
+    text-shadow: 10px 10px 10px pink;
+    line-height: 200px;
+    word-spacing: 50px;
+    text-indent:200px ;
+    letter-spacing: ; */
+    /* padding: 0px;
+    margin: 0;
+    background: linear-gradient(red,yellow);
+    background-image: linear-gradient(to left,red, yellow);
+    background: radial-gradient(pink,blue,yellow);
+     */
+    
+
+/* *{
+    background-color: aqua;
+    background-image: url(3.jpg);
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+/* div{
+    width: 30%;
+    height: 30vh;
+    border: 1px solid red;
+} */
+/* .class1
+{
+  background-color: aquamarine;
+  position:fixed;
+  /* top: 20px;
+  left: 20px; */
+/* .class2
+{
+  background-color: rgb(26, 29, 228);
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+.class3
+{
+  background-color: rgb(242, 19, 201);
+  position: static;
+  left: 40px;
+}
+.class4
+{
+  background-color: rgb(241, 233, 12);
+
+}
+.class5
+{
+  background-color: rgb(127, 255, 127);
+  position: sticky;
+  top: 300px;
+  
+} */
+
+/* p{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
+*{
+    padding: 50px;
+    border: 30px;
+    margin: 20px;
+    border-radius: 30px;
+} */
+
+div{
+    /* width: 300px;
+   height: 200px;
+   border: 1px solid black; */
+   display: flex;
+   flex-direction: row-reverse;
+   flex-direction: column-reverse;
+
+}
+.class1{
+    background-color: aquamarine;
+}
+.class2{
+    background-color: rgb(9, 35, 237);
+}
+.class3{
+    background-color: rgb(216, 15, 247);
+}
